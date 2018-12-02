@@ -5,6 +5,9 @@ gem 'hanami',       '~> 1.2'
 gem 'hanami-model', '~> 1.2'
 
 gem 'sqlite3'
+gem 'pry'
+gem 'byebug'
+gem 'pry-byebug'
 
 group :development do
   # Code reloading
